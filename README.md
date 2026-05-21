@@ -439,6 +439,28 @@ This project provides a comprehensive analysis of the relationship between tradi
 By combining exploratory data analysis, statistical methods, and machine learning techniques, the project demonstrates how financial data science methods can be used to better understand stock market behavior and generate predictive insights.
 
 The results highlight the importance of both market-wide and macroeconomic factors in explaining stock return dynamics across different sectors.
+# AI and Development Tools Used
+
+The project development process included the use of several AI-assisted and development tools to improve productivity, code organization, debugging, and documentation quality.
+
+## Tools Used
+- ChatGPT
+- Google Colab
+- GitHub
+- Python Libraries
+
+## Usage of AI Assistance
+
+AI-assisted tools were used for:
+- Code debugging support
+- Documentation improvement
+- Report structuring
+- Explanation and interpretation support
+- Project organization assistance
+
+All analytical decisions, dataset selection, preprocessing steps, model implementations, and interpretations were reviewed and validated throughout the project development process.
+
+The project workflow, financial analysis, statistical evaluations, and machine learning implementation were conducted and verified by the project members.
 
 ---
 
