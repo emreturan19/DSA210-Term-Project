@@ -146,10 +146,10 @@ Daily stock market data was collected for selected companies listed on Borsa Ist
 ### Selected Companies
 - THYAO.IS
 - GARAN.IS
-- AKBNK.IS
 - ASELS.IS
-- SISE.IS
-- EREGL.IS
+- KCHOL.IS
+- TUPRS.IS
+- BIMAS.IS
 
 These companies were selected because they represent different sectors of the Turkish economy, allowing broader market analysis and sector comparisons.
 
